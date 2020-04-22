@@ -2,4 +2,5 @@ time_now = Time.now
 if time_now % 2 = 0
   puts "Even!"
 else
-  puts "False"
+  puts "Odd!"
+end
