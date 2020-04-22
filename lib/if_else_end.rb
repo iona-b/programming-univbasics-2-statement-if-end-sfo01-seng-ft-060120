@@ -1,5 +1,3 @@
-time_now = Time.now
-time_now = time_now.to_i
 if Time.now.to_i % 2 == 0
   puts "Even!"
 else
