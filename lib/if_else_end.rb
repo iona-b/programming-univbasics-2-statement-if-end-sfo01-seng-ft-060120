@@ -1,2 +1,5 @@
 time_now = Time.now
-puts time_now
+if time_now % 2 = 0
+  puts "Even!"
+else
+  puts "False"
